@@ -12,3 +12,5 @@ A machine learning project that uses **Logistic Regression** to classify wine qu
 The classification is based on wine quality scores, where scores of 7 or above are classified as Good, while scores below 7 are classified as Not Good.
 
 The model is evaluated using Accuracy, Precision, Recall, F1-score, and ROC-AUC to measure classification performance.
+
+dataset link - https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
